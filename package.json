@@ -1,0 +1,27 @@
+{
+  "name": "claude-code-project",
+  "version": "1.0.0",
+  "description": "Alex Finn's Claude Code Power User Workflow - Zero bugs, 10x faster development",
+  "main": "index.js",
+  "scripts": {
+    "start": "claude-code",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "claude-code",
+    "ai-development",
+    "productivity",
+    "zero-bugs",
+    "workflow"
+  ],
+  "author": "Angelo @ DuetRight",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelor888/claude-code-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/angelor888/claude-code-project/issues"
+  },
+  "homepage": "https://github.com/angelor888/claude-code-project#readme"
+}
